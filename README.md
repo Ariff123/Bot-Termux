@@ -40,9 +40,9 @@ you've just cloned!!
 > node index.js
 ```
 ### UBAH NO OWNER 
-```Klick
+Klick
 -> [Owner] (https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
-```
+
 
 ## FIX ERORR
 

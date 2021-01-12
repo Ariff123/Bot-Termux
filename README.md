@@ -41,7 +41,7 @@ you've just cloned!!
 ```
 
 ### UBAH NO OWNER:
-:---:
+:-----------:
 
 Change owner
 [ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)

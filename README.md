@@ -43,7 +43,8 @@ you've just cloned!!
 Klick
 -> [Owner] (https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
 
-Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
+Change [ownerNumber](Change [ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170) in tobz.js to be your number) in index.js to be your number
+
 ## FIX ERORR
 
 | Sticker Creator |                Feature           |

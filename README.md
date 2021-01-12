@@ -41,9 +41,8 @@ you've just cloned!!
 ```
 ### UBAH NO OWNER 
 Klick
--> [Owner] (https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
 
-Change [ownerNumber](Change [ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170) in tobz.js to be your number) in index.js to be your number
+[ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170) in index.js to be your number) in index.js to be your number
 
 ## FIX ERORR
 
